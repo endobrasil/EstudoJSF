@@ -1,0 +1,1 @@
+INDEX VERSION 1.127+/mnt/589CD3813D8175C1/usuario/docs/estudo/eclipse/JavaEE/EstudoJSF/.metadata/.plugins/org.eclipse.jdt.core
