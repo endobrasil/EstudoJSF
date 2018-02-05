@@ -600,3 +600,32 @@
 2017-11-20 09:36:30,039 [Worker-119] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /PrimeiroProjetoPF/src/test/resources
 2017-11-20 09:36:30,860 [Worker-119] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for PrimeiroProjetoPF
 2017-11-20 09:36:30,864 [Worker-119] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 3 sec
+2018-01-01 02:51:07,413 [Worker-10] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: br.ce.estudo.maven.primaFaces:PrimeiroProjetoPF:1.0.0-SNAPSHOT @ /mnt/589CD3813D8175C1/usuario/docs/estudo/eclipse/JavaEE/EstudoJSF/PrimeiroProjetoPF/pom.xml.
+2018-01-01 11:50:56,935 [Worker-18] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: br.ce.ola.estudo.mavem:OlaMaven2:1.0.0-SNAPSHOT @ /mnt/589CD3813D8175C1/usuario/docs/estudo/eclipse/JavaEE/EstudoJSF/OlaMaven2/pom.xml.
+2018-01-01 11:51:13,366 [Worker-17] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.algaworks:Calendar:1.0.0-SNAPSHOT @ /mnt/589CD3813D8175C1/usuario/docs/estudo/eclipse/JavaEE/EstudoJSF/javaee-primefaces-master/Calendar/pom.xml.
+2018-01-01 11:59:46,022 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-01 11:59:46,022 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /mnt/589CD3813D8175C1/usuario/docs/estudo/eclipse/JavaEE/EstudoJSF/javaee-primefaces-master/Calendar/src/main/resources
+2018-01-01 11:59:46,036 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-01 11:59:46,036 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /mnt/589CD3813D8175C1/usuario/docs/estudo/eclipse/JavaEE/EstudoJSF/javaee-primefaces-master/Calendar/src/test/resources
+2018-01-01 12:01:46,350 [Worker-18] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: br.ce.estudo.maven.primaFaces:PrimeiroProjetoPF:1.0.0-SNAPSHOT @ /mnt/589CD3813D8175C1/usuario/docs/estudo/eclipse/JavaEE/EstudoJSF/PrimeiroProjetoPF/pom.xml.
+2018-01-01 12:02:41,492 [Worker-24] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: br.ce.ola.estudo.mavem:OlaMaven2:1.0.0-SNAPSHOT @ /mnt/589CD3813D8175C1/usuario/docs/estudo/eclipse/JavaEE/EstudoJSF/OlaMaven2/pom.xml.
+2018-01-01 12:03:59,681 [Worker-24] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: br.ce.estudo.maven.primaFaces:PrimeiroProjetoPF:1.0.0-SNAPSHOT @ /mnt/589CD3813D8175C1/usuario/docs/estudo/eclipse/JavaEE/EstudoJSF/PrimeiroProjetoPF/pom.xml.
+2018-02-05 10:49:19,911 [Worker-22] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: br.ce.estudo.maven.primaFaces:PrimeiroProjetoPF:1.0.0-SNAPSHOT @ /mnt/589CD3813D8175C1/usuario/docs/estudo/eclipse/JavaEE/EstudoJSF/PrimeiroProjetoPF/pom.xml.
+2018-02-05 11:03:45,431 [Worker-28] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: br.ce.ola.estudo.mavem:OlaMaven2:1.0.0-SNAPSHOT @ /mnt/589CD3813D8175C1/usuario/docs/estudo/eclipse/JavaEE/EstudoJSF/OlaMaven2/pom.xml.
+2018-02-05 12:03:28,290 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/archetypes/maven-archetype-quickstart/1.1/maven-archetype-quickstart-1.1.jar
+2018-02-05 12:05:43,005 [Worker-24] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/archetypes/maven-archetype-quickstart/1.1/maven-archetype-quickstart-1.1.pom
+2018-02-05 12:12:42,127 [Worker-42] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: andre.wendel:OlaMarvin:0.0.0-SNAPSHOT @ /mnt/589CD3813D8175C1/usuario/docs/estudo/eclipse/JavaEE/EstudoJSF/OlaMarvin/pom.xml.
+2018-02-05 12:12:44,591 [Worker-42] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /OlaMarvin/src/main/java
+2018-02-05 12:12:44,592 [Worker-42] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /OlaMarvin/src/main/resources
+2018-02-05 12:12:44,593 [Worker-42] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /OlaMarvin/src/test/java
+2018-02-05 12:12:44,621 [Worker-42] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /OlaMarvin/src/test/resources
+2018-02-05 12:38:16,766 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2018-02-05 12:39:02,246 [Worker-49] INFO  o.e.m.i.launch.MavenLaunchDelegate - /mnt/589CD3813D8175C1/usuario/docs/estudo/eclipse/JavaEE/EstudoJSF/OlaMarvin
+2018-02-05 12:39:02,247 [Worker-49] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B clean packege
+2018-02-05 12:39:38,335 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2018-02-05 12:40:02,685 [Worker-53] INFO  o.e.m.i.launch.MavenLaunchDelegate - /mnt/589CD3813D8175C1/usuario/docs/estudo/eclipse/JavaEE/EstudoJSF/OlaMarvin
+2018-02-05 12:40:02,685 [Worker-53] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B clean package
+2018-02-05 12:45:56,364 [Worker-49] INFO  o.e.m.i.launch.MavenLaunchDelegate - /mnt/589CD3813D8175C1/usuario/docs/estudo/eclipse/JavaEE/EstudoJSF/OlaMarvin
+2018-02-05 12:45:56,365 [Worker-49] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B clean package
+2018-02-05 12:49:03,620 [Worker-57] INFO  o.e.m.i.launch.MavenLaunchDelegate - /mnt/589CD3813D8175C1/usuario/docs/estudo/eclipse/JavaEE/EstudoJSF/OlaMarvin
+2018-02-05 12:49:03,620 [Worker-57] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B clean package
