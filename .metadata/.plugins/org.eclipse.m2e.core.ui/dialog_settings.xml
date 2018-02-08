@@ -2,6 +2,7 @@
 <section name="Workbench">
 	<section name="MavenProjectWizardArtifactPage">
 		<list key="groupId">
+			<item value="andre.wendel"/>
 			<item value="br.ce.estudo.maven.primaFaces"/>
 			<item value="br.ce.ola.estudo.mavem"/>
 			<item value="teste.wendel.java.jee"/>
@@ -9,6 +10,8 @@
 		<list key="name">
 		</list>
 		<list key="artifactId">
+			<item value="SegundoProjPF"/>
+			<item value="PrimeiroProjetoPrimeFaces"/>
 			<item value="PrimeiroProjetoPF"/>
 			<item value="OlaMaven2"/>
 			<item value="OlaMaven"/>
@@ -22,6 +25,7 @@
 			<item value="[name]"/>
 		</list>
 		<list key="version">
+			<item value="0.0.0-SNAPSHOT"/>
 			<item value="1.0.0-SNAPSHOT"/>
 		</list>
 	</section>
@@ -62,6 +66,8 @@
 	</section>
 	<section name="MavenProjectWizardLocationPage">
 		<list key="location">
+			<item value="/mnt/589CD3813D8175C1/usuario/docs/estudo/eclipse/JavaEE/EstudoJSF/PrimeiroProjetoPrimeFaces"/>
+			<item value="/mnt/589CD3813D8175C1/usuario/docs/estudo/eclipse/JavaEE/EstudoJSF/OlaMarvin"/>
 			<item value="/mnt/589CD3813D8175C1/usuario/docs/estudo/eclipse/JavaEE/EstudoJSF/javaee-primefaces-master/Calendar"/>
 			<item value="/mnt/589CD3813D8175C1/usuario/docs/estudo/eclipse/JavaEE/EstudoJSF/OlaMaven"/>
 		</list>
